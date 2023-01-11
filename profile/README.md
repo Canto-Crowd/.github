@@ -39,7 +39,8 @@ Any additional information goes here
 
 ## Demo
 
-[testnet.cantocrowd.xyz](https://testnet.cantocrowd.xyz){:target="_blank"}
+<a href="http://testnet.cantocrowd.xyz/" target="_blank">testnet.cantocrowd.xyz</a>
+
 
 
 ## Installation
