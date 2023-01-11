@@ -39,7 +39,7 @@ Any additional information goes here
 
 ## Demo
 
-[testnet.cantocrowd.xyz](https://testnet.cantocrowd.xyz)
+[testnet.cantocrowd.xyz](https://testnet.cantocrowd.xyz){:target="_blank"}
 
 
 ## Installation
