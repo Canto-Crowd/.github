@@ -39,7 +39,7 @@ Any additional information goes here
 
 ## Demo
 
-testnet.cantocrowd.xyz
+- [LINK](https://testnet.cantocrowd.xyz)
 
 
 ## Installation
