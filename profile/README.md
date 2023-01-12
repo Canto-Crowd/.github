@@ -33,7 +33,7 @@ To keep a continue improvment and  offering the best experience in our platform 
 
 - Quadratic funding model
 - Donations will be using on $NOTE Token 
-- Dao Donors will be rewarded with NFT member what will provide governance over the aplication 
+- Dao Donors will be rewarded with NFT member these will provide governance over the application 
 - Clean UX/UI 
 
 
