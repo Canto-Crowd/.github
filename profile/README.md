@@ -4,14 +4,12 @@
 
 # Canto Crowdfunding Dapp
 
-Canto Crowd is a decentralized crowdfunding application. The main goal is to provide funding to new public goods projects built on a Free Public  Infrastructure (FPI) powered by Canto Blockchain.
+Canto Crowd is a decentralized crowdfunding application. The main goal is to provide funding to new public goods projects built on a Free Public  Infrastructure (FPI) powered by Canto Blockchain and using a quadratic funding model .
 Canto Blockchain is a permissionless general-purpose blockchain running the Ethereum Virtual Machine (EVM). It was built to deliver on the promise of DeFi – that through a post-traditional financial movement, new systems will be made accessible, transparent, decentralized, and free.
 Giving an accessible way through a crowdfunding platform to get support for developing new ideas on the Canto Blockchain will help ecosystem growth.
 
 
 ## Appendix
-
-Any additional information goes here
 
 
 ## Screenshots
