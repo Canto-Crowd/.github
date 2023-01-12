@@ -15,6 +15,8 @@ Canto crowd will keep the following promise of a 100% decentralized solution, fo
 
 Each new project created on the Canto Crowd application will be getting funding from individuals but additional throw a quadratic funding model these projects have the opportunity to get more funds for their projects.
 
+To keep a continue improvment and  offering the best experience in our platform DAO will keep 5%  from funds to cover expenses and continue  development a better solution.
+
 
 
 
