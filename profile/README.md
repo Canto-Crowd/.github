@@ -32,7 +32,7 @@ To keep a continue improvment and  offering the best experience in our platform 
 ## Features
 
 - Quadratic funding model
-- Donations will be using on $NOTE and $CANTO Token 
+- Donations will be using on $NOTE Token 
 - Dao Donors will be rewarded with NFT member what will provide governance over the aplication 
 - Clean UX/UI 
 
