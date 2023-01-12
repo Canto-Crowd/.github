@@ -26,7 +26,7 @@ To keep a continue improvment and  offering the best experience in our platform 
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot]
 
 
 ## Features
