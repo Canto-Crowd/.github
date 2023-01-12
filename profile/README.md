@@ -11,6 +11,12 @@ Giving an accessible way through a crowdfunding platform to get support for deve
 
 ## Appendix
 
+Canto crowd will keep the following promise of a 100% decentralized solution, for these the crowdfunding platform will be governed and managed by a DAO (Decentralized  Autonomous Organization )  The CrowDao will manage all aspects, improvements, and changes for the Crowdfunding Platform, but too will keep the important goal to build a Math Found from  Big Donors to provide a quadratic funding mechanism to the platform.
+
+Each new project created on the Canto Crowd application will be getting funding from individuals but additional throw a quadratic funding model these projects have the opportunity to get more funds for their projects.
+
+
+
 
 ## Screenshots
 
@@ -19,15 +25,15 @@ Giving an accessible way through a crowdfunding platform to get support for deve
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Quadratic funding model
+- Donations will be exclusive on $CANTO Token 
+- Dao Donors will be rewarded with NFT member what will provide governance over the aplication 
+- Clean UX/UI 
 
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Redux, Etherjs TailwindCSS
 
 **Backend:** Node,Hardhat,Solidity
 
