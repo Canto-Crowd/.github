@@ -18,7 +18,7 @@ Each new project created on the Canto Crowd application will be getting funding 
 To keep a continue improvment and  offering the best experience in our platform DAO will keep 5%  from funds to cover expenses and continue  development a better solution.
 
 
-![Diagram](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/projectstructure.png)
+![Diagram](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/cantoproject.png)
 
 
 
