@@ -1,5 +1,4 @@
 
-![Logo](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/Logohorizontal4.png)
 
 
 # Canto Crowdfunding Dapp
