@@ -64,7 +64,10 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 ## Demo
 
-<a href="http://testnet.cantocrowd.xyz/" target="_blank">testnet.cantocrowd.xyz</a>
+<a href="https://evm.explorer.canto.io/address/0x1d83eA94e33142E35Aed633EE7fF67072Dbd06d1" target="_blank">contract deployment </a>
+
+
+<a href="http://cantocrowd.xyz/" target="_blank">cantocrowd.xyz</a>
 
 
 
