@@ -28,6 +28,8 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 ![Diagram](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/cantoproject.png)
 
+![Diagram](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/cantocrowdvote.png)
+
 
 
 ## What is Canto Blockchain and How is it Different?
