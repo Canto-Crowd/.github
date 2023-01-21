@@ -40,7 +40,7 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 ## Screenshots
 
-![App Screenshot]
+![App Screenshot](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/cantosite.png)
 
 
 ## Features
