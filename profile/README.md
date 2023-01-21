@@ -64,10 +64,16 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 ## Demo
 
+<a href="http://cantocrowd.xyz/" target="_blank">cantocrowd.xyz</a>
+
+
+## Contract
+
 <a href="https://evm.explorer.canto.io/address/0x1d83eA94e33142E35Aed633EE7fF67072Dbd06d1" target="_blank">contract deployment </a>
 
 
-<a href="http://cantocrowd.xyz/" target="_blank">cantocrowd.xyz</a>
+
+
 
 
 
@@ -76,34 +82,34 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install 
+  cd client
 ```
     
 ## Run Locally
 
 Clone the project
-
+https://github.com/Canto-Crowd/client
 ```bash
-  git clone https://link-to-project
+  git clone 
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd client
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  yarn  install
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  yarn start
 ```
 
 
@@ -112,7 +118,7 @@ Start the server
 To deploy this project run
 
 ```bash
-  npm run deploy
+  yarn deploy
 ```
 
 
@@ -120,9 +126,9 @@ To deploy this project run
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`API_KEY`
+`PRIVATE_KEY`
 
-`ANOTHER_API_KEY`
+
 
 
 ## FAQ
@@ -138,9 +144,10 @@ Answer 2
 
 ## Roadmap
 
-- Additional browser support
+- Integration Snapshot Dao with Dapp
 
-- Add more integrations
+- Test
+
 
 
 ## Contributing
