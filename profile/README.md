@@ -69,8 +69,7 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 ## Contract
 
-<a href="https://evm.explorer.canto.io/address/0x1d83eA94e33142E35Aed633EE7fF67072Dbd06d1" target="_blank">contract deployment </a>
-
+![Contrat](https://evm.explorer.canto.io/address/0x1d83eA94e33142E35Aed633EE7fF67072Dbd06d1)
 
 
 
