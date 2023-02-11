@@ -30,9 +30,7 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 
 
-![Diagram](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/cantoproject.png)
-
-![Diagram](https://cantocrowd-bucket.us-southeast-1.linodeobjects.com/cantocrowdvote.png)
+![Diagram](https://drive.google.com/file/d/1z0mi0JRiFKltRl3t_X2zIWTu3somzq-L/view?usp=share_link)
 
 
 
