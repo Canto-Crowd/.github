@@ -30,7 +30,7 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 
 
-![Diagram](https://drive.google.com/file/d/1z0mi0JRiFKltRl3t_X2zIWTu3somzq-L/view?usp=share_link)
+![Diagram](https://github.com/Canto-Crowd/client/blob/main/20230211_080606.jpg)
 
 
 
