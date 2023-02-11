@@ -66,7 +66,7 @@ The mission of Canto Crowd goes beyond fund allocation. The true value of this C
 
 ## Demo
 
-<a href="http://cantocrowd.xyz/" target="_blank">cantocrowd.xyz</a>
+<a href="https://cantocrowd-0493ed03cd6ee011f736f85b72d1.webflow.io/" target="_blank">cantocrowd.xyz</a>
 
 
 ## Contract
